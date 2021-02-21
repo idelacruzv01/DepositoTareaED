@@ -1,5 +1,12 @@
 package cuentas;
 
+/**
+ * 
+ * @author ivan-_000
+ * Este comentario se ha añadido con la finalidad de actualizar los datos y registrar
+ * un nuevo commit
+ *
+ */
 public class CCuenta {
 	
 	private String nombre;
